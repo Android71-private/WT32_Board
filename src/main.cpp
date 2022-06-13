@@ -14,11 +14,7 @@ void setup() {
   
   //lv_button_demo();
 
-  lv_example_get_started_1();
-  //lv_example_get_started_2();
-  //lv_example_get_started_3();
-
-  //lv_example_flex_1();
+  lv_example_flex_1();
   //lv_example_flex_2();
   //lv_example_flex_3();
   //lv_example_flex_4();
