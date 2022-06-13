@@ -13,7 +13,9 @@ void setup() {
   // вызов функции нового демо из Демо.h
   
   //lv_button_demo();
-  lv_example_grid_1();
+  //lv_example_grid_1();
+  //lv_example_grid_2();
+  lv_example_grid_3();
   
 }
 
