@@ -4,11 +4,6 @@
 #include <WT32settings.h>
 //#include <Buttons_demo.h>
 
-//#include <Get_Started_1.h>
-//#include <Get_Started_2.h>
-//#include <Get_Started_3.h>
-
-#include <Get_Started.h>
 #include <LayoutFlex.h>
 // место для инклуда нового Демо.h
 
