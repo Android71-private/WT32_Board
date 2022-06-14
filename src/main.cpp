@@ -4,7 +4,7 @@
 #include <WT32settings.h>
 //#include <Buttons_demo.h>
 
-#include <GridLayout.h>
+#include <ScrollBar.h>
 // место для инклуда нового Демо.h
 
 void setup() {
@@ -13,9 +13,8 @@ void setup() {
   // вызов функции нового демо из Демо.h
   
   //lv_button_demo();
-  //lv_example_grid_1();
-  //lv_example_grid_2();
-  lv_example_grid_3();
+  //lv_example_scroll_4();
+  lv_example_scroll_6();
   
 }
 
